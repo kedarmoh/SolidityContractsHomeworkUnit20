@@ -35,9 +35,9 @@ The tiered contract splits the profits based on the level with the CEO getting 6
 * If there is anything left over we send that amount ( msg.value-total) to employee_one (CEO)
 
 The screenshots of executing the TieredProfitSplitterContract are as follows
-![Screenshot1](/Images/TieredProfitSplitter/GanacheAccountsBeforeExecutingTieredContract.png)
-![Screenshot2](/Images/TieredProfitSplitter/TieredContractConstructorInitializationwith3EmployeeAddresses.png)
-![Screenshot3](/Images/TieredProfitSplitter/TieredContractDeployedSuccessfully.png)
-![Screenshot4](/Images/TieredProfitSplitter/TieredContractDepositing10ETH.png)
-![Screenshot5](/Images/TieredProfitSplitter/GanacheAccountsAfterSplitting10ETH.png)
+![Screenshot10](/Images/TieredProfitSplitter/GanacheAccountsBeforeExecutingTieredContract.png)
+![Screenshot11](/Images/TieredProfitSplitter/TieredContractConstructorInitializationwith3EmployeeAddresses.png)
+![Screenshot12](/Images/TieredProfitSplitter/TieredContractDeployedSuccessfully.png)
+![Screenshot13](/Images/TieredProfitSplitter/TieredContractDepositing10ETH.png)
+![Screenshot14](/Images/TieredProfitSplitter/GanacheAccountsAfterSplitting10ETH.png)
 
