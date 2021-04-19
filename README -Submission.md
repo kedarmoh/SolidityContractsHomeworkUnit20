@@ -12,7 +12,7 @@ The AssociateProfitSplitter contract splits the profit equally amongst the 3 emp
 * We call the deposit() function from withing the function() external payable to ensure that the logic in deposit() executes if the Ether is sent directly to the contract, since we dont have a withdraw() function in this case.
 
 The screenshots of executing the AssociateProfitSplitterContract are as follows.
-![Screenshot1](/Images/AssociateProfitSplitter/AssociateProfitSplitterCompiled.jpg)
+![Screenshot1](/Images/AssociateProfitSplitter/AssociateProfitSplitterCompiled.png)
 ![Screenshot2](/Images/AssociateProfitSplitter/GanacheAccountsUsedForContract.jpg)
 ![Screenshot3](/Images/AssociateProfitSplitter/EmployeeAccountsInitializedBeforeDeploying.jpg)
 ![Screenshot4](/Images/AssociateProfitSplitter/MetaMaskConfirmationDuringDeploymentAssoicateProfitSplitter.jpg)
