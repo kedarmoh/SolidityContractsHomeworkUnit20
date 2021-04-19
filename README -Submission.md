@@ -39,3 +39,12 @@ The screenshots of executing the TieredProfitSplitterContract are as follows.
 ![Screenshot13](/Images/TieredProfitSplitter/TieredContractDepositing10ETH.PNG)
 ![Screenshot14](/Images/TieredProfitSplitter/GanacheAccountsAfterSplitting10ETH.PNG)
 
+
+## TestNet Deployment
+* Connected to the Ropsten Network on Metamask 
+* Deployed the TieredprofitSplitter Contract  to the Ropsten network at address 0xfb8eCA64BFb07A64CBC8b58ddf94f8746EDe9623
+* Deployed the AssociateProfitSplitter Contract  to the Ropsten network at address 0x916Ed0e5c5021E94980e83A0b6971aD5b3EeeF48
+
+The screenshots of of deploying both contracts to the Ropsten Test network are as follows.
+![Screenshot15](/Images/TestNetDeployment/AssociateContractonRopsten.PNG)
+![Screenshot16](/Images/TestNetDeployment/TieredContractonRopsten.PNG)
