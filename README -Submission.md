@@ -34,7 +34,7 @@ The tiered contract splits the profits based on the level with the CEO getting 6
 
 The screenshots of executing the TieredProfitSplitterContract are as follows.
 ![Screenshot10](/Images/TieredProfitSplitter/GanacheAccountsBeforeExecutingTieredContract.png)
-![Screenshot1](/Images/TieredProfitSplitter/GanacheAccountsBeforeExecutingTieredContract.png)
+![Image2](/Images/TieredProfitSplitter/GanacheAccountsBeforeExecutingTieredContract.png)
 ![Screenshot11](/Images/TieredProfitSplitter/TieredContractConstructorInitializationwith3EmployeeAddresses.png)
 ![Screenshot12](/Images/TieredProfitSplitter/TieredContractDeployedSuccessfully.png)
 ![Screenshot13](/Images/TieredProfitSplitter/TieredContractDepositing10ETH.png)
