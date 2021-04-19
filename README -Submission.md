@@ -12,14 +12,14 @@ The AssociateProfitSplitter contract splits the profit equally amongst the 3 emp
 * We call the deposit() function from withing the function() external payable to ensure that the logic in deposit() executes if the Ether is sent directly to the contract, since we dont have a withdraw() function in this case.
 
 The screenshots of executing the AssociateProfitSplitterContract are as follows.
-![Image1](Images\AssociateProfitSplitter\Images\AssociateProfitSplitter.jpg)
-(Images\AssociateProfitSplitter\GanacheAccountsUsedForContract.jpg)
-(Images\AssociateProfitSplitter\EmployeeAccountsInitializedBeforeDeploying.jpg)
-(Images\AssociateProfitSplitter\MetaMaskConfirmationDuringDeploymentAssoicateProfitSplitter.jpg)
-(Images\AssociateProfitSplitter\AssociateProfitSplitterContractDeployedSuccessfully.jpg)
-(Images\AssociateProfitSplitter\AssoicateProfitSplitter-9ETH.jpg)
-(Images\AssociateProfitSplitter\AssoicateProfitSplitter-4ETH.jpg)
-(Images\AssociateProfitSplitter\GanacheAccountsUpdatedAfterAssociateProfitSplitterContractExecutedDepositMethod-4ETH.jpg)
+![Screenshot1](/Images/AssociateProfitSplitter/AssociateProfitSplitterCompiled.jpg)
+![Screenshot2](/Images/AssociateProfitSplitter/GanacheAccountsUsedForContract.jpg)
+![Screenshot3](/Images/AssociateProfitSplitter/EmployeeAccountsInitializedBeforeDeploying.jpg)
+![Screenshot4](/Images/AssociateProfitSplitter/MetaMaskConfirmationDuringDeploymentAssoicateProfitSplitter.jpg)
+![Screenshot5](/Images/AssociateProfitSplitter/AssociateProfitSplitterContractDeployedSuccessfully.jpg)
+![Screenshot6](/Images/AssociateProfitSplitter/AssoicateProfitSplitter-9ETH.jpg)
+![Screenshot7](/Images/AssociateProfitSplitter/AssoicateProfitSplitter-4ETH.jpg)
+![Screenshot8](/Images/AssociateProfitSplitter/GanacheAccountsUpdatedAfterAssociateProfitSplitterContractExecutedDepositMethod-4ETH.jpg)
 
 ## Instructions
 
