@@ -13,13 +13,14 @@ The AssociateProfitSplitter contract splits the profit equally amongst the 3 emp
 
 The screenshots of executing the AssociateProfitSplitterContract are as follows.
 ![Screenshot1](/Images/AssociateProfitSplitter/AssociateProfitSplitterCompiled.png)
-![Screenshot2](/Images/AssociateProfitSplitter/GanacheAccountsUsedForContract.jpg)
-![Screenshot3](/Images/AssociateProfitSplitter/EmployeeAccountsInitializedBeforeDeploying.jpg)
-![Screenshot4](/Images/AssociateProfitSplitter/MetaMaskConfirmationDuringDeploymentAssoicateProfitSplitter.jpg)
-![Screenshot5](/Images/AssociateProfitSplitter/AssociateProfitSplitterContractDeployedSuccessfully.jpg)
-![Screenshot6](/Images/AssociateProfitSplitter/AssoicateProfitSplitter-9ETH.jpg)
-![Screenshot7](/Images/AssociateProfitSplitter/AssoicateProfitSplitter-4ETH.jpg)
-![Screenshot8](/Images/AssociateProfitSplitter/GanacheAccountsUpdatedAfterAssociateProfitSplitterContractExecutedDepositMethod-4ETH.jpg)
+![Screenshot2](/Images/AssociateProfitSplitter/GanacheAccountsUsedForContract.png)
+![Screenshot3](/Images/AssociateProfitSplitter/EmployeeAccountsInitializedBeforeDeploying.png)
+![Screenshot4](/Images/AssociateProfitSplitter/MetaMaskConfirmationDuringDeploymentAssoicateProfitSplitter.png)
+![Screenshot5](/Images/AssociateProfitSplitter/AssociateProfitSplitterContractDeployedSuccessfully.png)
+![Screenshot6](/Images/AssociateProfitSplitter/AssoicateProfitSplitter-9ETH.png)
+![Screenshot7](/Images/AssociateProfitSplitter/GanacheAccountsUpdatedAfterAssociateProfitSplitterContractExecutedDepositMethod.png)
+![Screenshot8](/Images/AssociateProfitSplitter/AssoicateProfitSplitter-4ETH.png)
+![Screenshot9](/Images/AssociateProfitSplitter/GanacheAccountsUpdatedAfterAssociateProfitSplitterContractExecutedDepositMethod-4ETH.png)
 
 ##  AssociateProfitSplitter.com
 
