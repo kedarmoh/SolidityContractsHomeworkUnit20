@@ -40,4 +40,5 @@ The screenshots of executing the TieredProfitSplitterContract are as follows
 ![Screenshot12](/Images/TieredProfitSplitter/TieredContractDeployedSuccessfully.png)
 ![Screenshot13](/Images/TieredProfitSplitter/TieredContractDepositing10ETH.png)
 ![Screenshot14](/Images/TieredProfitSplitter/GanacheAccountsAfterSplitting10ETH.png)
+![Screenshot8](/Images/AssociateProfitSplitter/AssoicateProfitSplitter-4ETH.png)
 
