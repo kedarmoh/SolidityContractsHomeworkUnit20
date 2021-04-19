@@ -1,7 +1,5 @@
 # Unit 20 - "Solidity Homework"
 
-![contract](Images/smart-contract.png)
-
 ## AssociateProfitSplitter.com
 
 The AssociateProfitSplitter contract splits the profit equally amongst the 3 employees specified at deployment.
@@ -35,7 +33,7 @@ The tiered contract splits the profits based on the level with the CEO getting 6
 * If there is anything left over we send that amount ( msg.value-total) to employee_one (CEO)
 
 The screenshots of executing the TieredProfitSplitterContract are as follows.
-![Screenshot10](/Images/TieredProfitSplitter/GanacheAccountsBeforeExecutingTieredContract.png)
+![Screenshot10]( /Images/TieredProfitSplitter/GanacheAccountsBeforeExecutingTieredContract.png)
 ![Screenshot11](/Images/TieredProfitSplitter/TieredContractConstructorInitializationwith3EmployeeAddresses.png)
 ![Screenshot12](/Images/TieredProfitSplitter/TieredContractDeployedSuccessfully.png)
 ![Screenshot13](/Images/TieredProfitSplitter/TieredContractDepositing10ETH.png)
